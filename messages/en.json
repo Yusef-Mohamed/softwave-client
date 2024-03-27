@@ -1,0 +1,67 @@
+{
+  "common": {
+    "locale": "en",
+    "change_language": "Change Language",
+    "login": "Go to login page",
+    "project_button": "See project details"
+  },
+  "heroSection": {
+    "title": "Transform Your Business <br /> with Cloudify Accounting <br /> Software",
+    "paragraph": "Manage your finances easily and efficiently from anywhere with Cloudify, the cloud-based accounting software that integrates with over 1,000 apps.",
+    "button": "Get Started"
+  },
+  "projectsSlider": {
+    "title": "Our projects",
+    "paragraph": "Manage your projects with Cloudify, the cloud-based accounting software that integrates with over 1,000 apps.",
+    "button": "View All Projects",
+    "see_details": "See project details"
+  },
+  "pages": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact Us",
+    "company": "Company"
+  },
+  "contact": {
+    "support_center": "Support Center",
+    "title": "Contact Us"
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "subject": "Subject",
+    "phone": "Phone",
+    "send": "Send",
+    "contact_message_placeholder": "How can we help you today?"
+  },
+  "servicesSection": {
+    "paragraph": "Preparing for your success , we provide truly prominent IT solutions.",
+    "title": "Our Services",
+    "learn_more": "Learn More"
+  },
+  "notFound": {
+    "title": "Oops! Page Not Found",
+    "paragraph": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+    "button": "Go to home page"
+  },
+  "clientsWrapper": {
+    "happy_clients": "Happy Clients"
+  },
+  "ourClientsFeedBack": {
+    "title": "our clients feedback",
+    "paragraph": "Clients feedback to",
+    "soft_wave": "SoftWave"
+  },
+  "ourTeam": {
+    "title": "Our Team",
+    "paragraph": "Meet the team of professionals who are always ready to help you with any issue."
+  },
+  "footer": {
+    "paragraph": "We are a team of dedicated professionals, ready to do what ever it takes to make your business grow.",
+    "company": "Company",
+    "company_link": "About Us"
+  }
+}
