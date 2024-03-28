@@ -86,7 +86,7 @@ const OurTeam = async () => {
             <div className="bg-muted aspect-square animate-pulse w-full" />
 
             <div className="py-4">
-              <h4 className="text-lg font-bold">{member.name}</h4>
+              <h3 className="text-lg font-bold">{member.name}</h3>
               <p className="text-sm text-gray-500">{member.title}</p>
             </div>
           </div>

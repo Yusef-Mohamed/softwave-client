@@ -47,9 +47,9 @@ const ProjectSlider = async () => {
                   />
                 </div>
                 <div className="px-4">
-                  <h4 className="font-semibold mt-4 text-lg">
+                  <h3 className="font-semibold mt-4 text-lg">
                     {isEn ? project.title_en : project.title_ar}
-                  </h4>
+                  </h3>
                   <p className="text-muted-foreground line-clamp-3">
                     {isEn ? project.description_en : project.description_ar}
                   </p>

@@ -3,7 +3,8 @@
     "locale": "en",
     "change_language": "Change Language",
     "login": "Go to login page",
-    "project_button": "See project details"
+    "project_button": "See project details",
+    "open_menu": "Open navigation menu"
   },
   "heroSection": {
     "title": "Transform Your Business <br /> with Cloudify Accounting <br /> Software",
@@ -40,7 +41,7 @@
   "servicesSection": {
     "paragraph": "Preparing for your success , we provide truly prominent IT solutions.",
     "title": "Our Services",
-    "learn_more": "Learn More"
+    "learn_more": "See service details"
   },
   "notFound": {
     "title": "Oops! Page Not Found",

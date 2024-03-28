@@ -189,7 +189,7 @@ export const Header = () => {
       </p>
       <div>
         <Button asChild className="mt-6" size="lg">
-          <Link href="/contact">{text("button")}</Link>
+          <Link href="/contact-us">{text("button")}</Link>
         </Button>
       </div>
     </div>

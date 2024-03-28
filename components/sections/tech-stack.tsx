@@ -77,9 +77,9 @@ const TechStack = () => {
           {sections.map((section, index) => {
             return (
               <div key={index}>
-                <h4 className="font-semibold text-lg text-muted-foreground w-fit">
+                <h3 className="font-semibold text-lg text-muted-foreground w-fit">
                   <span>{section.name}</span>
-                </h4>
+                </h3>
                 <div className="h-[2px] w-24 bg-primary my-4" />
                 <div className="grid  grid-cols-2 lg:grid-cols-4 gap-4">
                   {section.techs.map((tech, index) => {

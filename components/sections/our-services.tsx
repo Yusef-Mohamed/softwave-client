@@ -39,9 +39,9 @@ const OurServices = async () => {
                 <FaLaptopCode />
               </div>
               <div>
-                <h4 className="font-semibold mb-3">
+                <h3 className="font-semibold mb-3">
                   {isEn ? service.title_en : service.title_ar}
-                </h4>
+                </h3>
                 <p className="text-sm text-muted-foreground">
                   {isEn ? service.description_en : service.description_ar}
                 </p>

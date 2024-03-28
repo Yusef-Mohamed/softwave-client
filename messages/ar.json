@@ -3,7 +3,8 @@
     "locale": "ar",
     "change_language": "تغيير اللغة",
     "login": "الانتقال إلى صفحة تسجيل الدخول",
-    "project_button": "رؤية تفاصيل المشروع"
+    "project_button": "رؤية تفاصيل المشروع",
+    "open_menu": "فتح القائمة"
   },
   "heroSection": {
     "title": "قم بتحويل عملك <br /> مع برنامج Cloudify Accounting <br /> السحابي",
