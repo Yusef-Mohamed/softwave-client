@@ -6,4 +6,5 @@ export function cn(...inputs: ClassValue[]) {
 }
 export const getUrlFromPath = (path: string) => {
   return `${process.env.NEXT_PUBLIC_BASE_URL}${path}`;
+  return `${process.env.NEXT_PUBLIC_BASE_URL}${path}`;
 };
